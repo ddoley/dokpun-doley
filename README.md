@@ -1,5 +1,5 @@
 <h1 >Hi, I'm Dokpun Doley🙋‍♂️</h1> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ddoley&&theme=merko" alt="ddoley" />
-<h3 >A pre-final year Mechanical Engineering at NIT Rourkela</h3> 
+<h3 >A pre-final year Mechanical Engineering Student at NIT Rourkela</h3> 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=ddoley&label=Profile%20views&color=0e75b6&style=flat" alt="ddoley" /> </p> 
 
 🌱 I’m currently learning Data Analysis and Data Science.
