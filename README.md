@@ -9,11 +9,11 @@
 
 ## #️⃣Socials:
 <p align="left"> 
-<a href="https://www.linkedin.com/in/dokpun-doley-74a66920b/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-s?logo=linkedin&labelColor=%230072b1&color=white&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fluikdb">
+<a href="https://www.linkedin.com/in/dokpun-doley-74a66920b/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-s?logo=linkedin&labelColor=%230072b1&color=white&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fddoley">
 </a>
 <a href="https://www.codechef.com/users/ddoley" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Codechef-s?logo=codechef&logoColor=white&labelColor=65371b&color=white">
 </a>
-<a href="https://leetcode.com/ddoley/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-s?logo=leetcode&logoColor=f3991e&labelColor=black&color=white&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fluikdb"></a>
+<a href="https://leetcode.com/ddoley/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-s?logo=leetcode&logoColor=f3991e&labelColor=black&color=white&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fddoley"></a>
 
   
 
