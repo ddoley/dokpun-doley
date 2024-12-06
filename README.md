@@ -1,3 +1,4 @@
+![logo](https://github.com/ddoley/dokpun-doley/blob/main/git%20banner.gif)
 <h1 align="center">Hi 👋, I'm Dokpun Doley</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif">
