@@ -1,24 +1,25 @@
-<h1 >Hi, I'm Dokpun Doley🙋‍♂️</h1> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ddoley&&theme=merko" alt="ddoley" />
-<h3 >a final year Mechanical Engineering Student at NIT Rourkela</h3> 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=ddoley&label=Profile%20views&color=0e75b6&style=flat" alt="ddoley" /> </p> 
+<h1 align="center">Hi 👋, I'm Dokpun Doley</h1>
+<h3 align="center">A passionate Data Science Enthusiast from India</h3>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif">
 
-🌱 I’m currently learning Data Analysis and Data Science.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddoley&label=Profile%20views&color=0e75b6&style=flat" alt="ddoley" /> </p>
 
-📫 Contact me: **ddoley8125@gmail.com**
+- 🌱 I’m currently learning **Python, SQL, ML, CNN, Data Analytics**
 
+- 📫 How to reach me **ddoley8125@gmail.com**
 
-## #️⃣Socials:
-<p align="left"> 
-<a href="https://www.linkedin.com/in/dokpun-doley-74a66920b/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-s?logo=linkedin&labelColor=%230072b1&color=white&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fddoley">
-</a>
-<a href="https://www.codechef.com/users/ddoley" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Codechef-s?logo=codechef&logoColor=white&labelColor=65371b&color=white">
-</a>
-<a href="https://leetcode.com/ddoley/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-s?logo=leetcode&logoColor=f3991e&labelColor=black&color=white&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fddoley"></a>
-
-  
-
-## 💻Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)	
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dokpun doley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dokpun doley" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ddoley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ddoley" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ddoley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ddoley" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddoley&show_icons=true&locale=en&layout=compact" alt="ddoley" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddoley&show_icons=true&locale=en" alt="ddoley" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddoley&" alt="ddoley" /></p>
